@@ -69,9 +69,6 @@
             background-color:  rgb(172, 178, 181);
             border:2px solid grey;
         }
-        .input:active{
-            border:2px solid grey;
-        }
         .clear{
             border:1px   rgb(165, 207, 228);
             border-radius: 5px;
