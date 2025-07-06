@@ -38,7 +38,7 @@ git clone https://github.com/Anusha946-ui/Calculator.git
 
 📸 Preview
 
-![Screenshot 2025-07-06 184146](https://github.com/user-attachments/assets/370a3f2c-2cd4-47de-bb8a-6283031fd92c)
+![Screenshot 2025-07-06 184146](https://github.com/user-attachments/assets/a69e7c11-b8dd-4c43-9af1-2ad62302f02a)
 
 
 
