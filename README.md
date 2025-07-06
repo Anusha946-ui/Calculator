@@ -7,7 +7,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 -Clean and intuitive user interface
 
 -Responsive design for mobile, tablet, and desktop screens
-
+ 
 -Supports both keyboard and on-screen button inputs
 
 -Handles basic arithmetic functions
