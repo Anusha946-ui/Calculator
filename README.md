@@ -38,13 +38,17 @@ git clone https://github.com/Anusha946-ui/Calculator.git
 
 📁 Project Structure
 
-│
+
 ├── calculator.html   # Main HTML file
+
 ├── style.css         # Stylesheet for layout and design
+
 ├── script.js         # JavaScript for calculator logic
+
 └── README.md         # Project overview and instructions
 
 
 🙋‍♀️ Author
+
 Developed by @Anusha946-ui
 
