@@ -1,6 +1,7 @@
 # Calculator
 A simple and responsive calculator built using HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with ease.
 
+
 ✨ Features
 
 -Clean and intuitive user interface
@@ -28,6 +29,7 @@ git clone https://github.com/Anusha946-ui/Calculator.git
 
 2.Open the folder and run the calculator.html file in any modern browser.
 
+
 📸 Preview
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/90cf7e83-743b-4db4-bb57-0c04bdeb3144)
@@ -41,6 +43,7 @@ git clone https://github.com/Anusha946-ui/Calculator.git
 ├── style.css         # Stylesheet for layout and design
 ├── script.js         # JavaScript for calculator logic
 └── README.md         # Project overview and instructions
+
 
 🙋‍♀️ Author
 Developed by @Anusha946-ui
