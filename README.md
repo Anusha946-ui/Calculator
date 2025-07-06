@@ -4,10 +4,15 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 ✨ Features
 
 -Clean and intuitive user interface
+
 -Responsive design for mobile, tablet, and desktop screens
+
 -Supports both keyboard and on-screen button inputs
+
 -Handles basic arithmetic functions
+
 -Includes Clear, Delete, and Memory options 
+
 
 🛠️ Tech Stack
 
@@ -18,10 +23,10 @@ JavaScript – for interactive functionality
 
 🚀 How to Run
 
-Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Anusha946-ui/Calculator.git
 
-Open the folder and run the calculator.html file in any modern browser.
+2.Open the folder and run the calculator.html file in any modern browser.
 
 📸 Preview
 
