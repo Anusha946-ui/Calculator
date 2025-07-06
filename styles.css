@@ -1,0 +1,84 @@
+        body{
+            background-color: rgba(210, 220, 224, 0.908);
+        }
+        h1{
+            text-align:center;
+            margin-bottom:-120px;
+            margin-top:130px;
+           
+        }
+        .btn{
+            display:grid;
+            grid-template-rows:50px 50px 50px 50px 50px 50px 50px 50px 50px ;
+            grid-template-columns:100px 100px 100px 100px ;
+            gap:7px;
+            justify-content: center;
+            padding:150px;
+        }       
+        .btns{
+            border:2px solid black;
+            border-radius: 5px;
+            display: flex;
+            align-items:center;
+            justify-content: center;
+            color:black;
+            background-color:whitesmoke;
+            border:0px whitesmoke;
+            font-weight:bold;
+        }
+        .btns:hover{
+            background-color: rgb(172, 178, 181);
+            cursor:pointer; 
+        }
+        .ans{
+            background-color:  rgb(64, 32, 222);
+            color:white;
+            border:0px  rgb(64, 32, 222);
+            width:205px;
+            border-radius: 5px;
+            font-weight:bold;
+            
+        }
+        .ans:hover{
+             background-color:  rgb(27, 2, 152);
+             cursor:pointer;
+        }
+        .backspace{
+            border:1px  rgb(165, 207, 228);
+            border-radius: 5px;
+            background-color:  rgb(165, 207, 228);
+            font-weight:bold;
+        }
+        .backspace:hover{
+               background-color: rgb(102, 161, 190);
+               cursor:pointer; 
+        }
+        .input{
+            grid-column-start: 1;
+            grid-column-end: 5;
+        }
+        .input{
+            border:1px  whitesmoke;
+            border-radius: 5px;
+            background-color:  whitesmoke;
+            font-weight:bold;
+            font-size:20px;
+            text-align:right;
+        }
+        .input:hover{
+            background-color:  rgb(172, 178, 181);
+            border:2px solid grey;
+        }
+        .input:active{
+            border:2px solid grey;
+        }
+        .clear{
+            border:1px   rgb(165, 207, 228);
+            border-radius: 5px;
+            background-color:   rgb(165, 207, 228);
+            font-weight:bold;
+        }
+        .clear:hover{
+               background-color: rgb(102, 161, 190);
+               cursor:pointer; 
+        }
