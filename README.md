@@ -25,7 +25,8 @@ Open the folder and run the calculator.html file in any modern browser.
 
 📸 Preview
 
-![Screenshot (2)](https://github.com/user-attachments/assets/862733a6-ca14-476b-8e64-ec5b67b7e34e)
+![Screenshot (2)](https://github.com/user-attachments/assets/90cf7e83-743b-4db4-bb57-0c04bdeb3144)
+
 
 
 📁 Project Structure
